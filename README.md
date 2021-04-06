@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @cjkr
 - 👀 I’m interested in Frontend Development and Machine Learning.
 - 🌱 I’m currently learning NextJS.
-- 💞️ I’m looking to collaborate on projects implementing Reactive Frameworks.
-- 📫 How to reach me:  jcheruiyot11@gmail.com
